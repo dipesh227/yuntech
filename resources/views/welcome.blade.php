@@ -6,6 +6,7 @@
 
     <x-headerlink />
     <x-footerjslink />
+    <x-footerlink />
 </body>
 
 </html>
