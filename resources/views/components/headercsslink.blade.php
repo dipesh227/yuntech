@@ -6,10 +6,7 @@
     <meta name="author" content="Yun Tech" />
     <link rel="canonical" href="https://yuntech.org/" />
     {{-- css --}}
-    <link type="text/css" href="{{ asset('/vendor/%40fortawesome/fontawesome-free/css/all.min.css') }}"
-        rel="stylesheet" />
     <link type="text/css" href="{{ asset('/public/vendor/%40fortawesome/fontawesome-free/css/all.min.css') }}"
         rel="stylesheet" />
-    <link type="text/css" href="{{ asset('/css/yuntech.css') }}" rel="stylesheet" />
     <link type="text/css" href="{{ asset('/public/css/yuntech.css') }}" rel="stylesheet" />
 </head>

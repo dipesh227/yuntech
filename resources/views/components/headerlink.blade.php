@@ -3,9 +3,8 @@
         class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-dark">
         <div class="container position-relative">
             <a class="navbar-brand shadow-soft py-2 px-3 rounded border border-light mr-lg-4" href="/">
-                <img class="navbar-brand-dark" src="{{ asset('/assets/img/brand/dark.svg')}}" alt="Logo light" />
                 <img class="navbar-brand-dark" src="{{ asset('/public/assets/img/brand/dark.svg')}}" alt="Logo light" />
-                <img class="navbar-brand-light" src="../../assets/img/brand/dark.svg" alt="Logo dark" />
+                <img class="navbar-brand-light" src="{{ asset('/public/assets/img/brand/dark.svg')}}" alt="Logo dark" />
             </a>
             <div class="navbar-collapse collapse" id="navbar_global">
                 <div class="navbar-collapse-header">
