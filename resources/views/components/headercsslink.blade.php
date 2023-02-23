@@ -13,7 +13,7 @@
     <meta itemprop="description"
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta itemprop="image"
-        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta name="twitter:card" content="product" />
     <meta name="twitter:site" content="@themesberg" />
     <meta name="twitter:title" content="Neumorphism UI PRO by Themesberg" />
@@ -21,13 +21,13 @@
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta name="twitter:creator" content="@themesberg" />
     <meta name="twitter:image"
-        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta property="fb:app_id" content="214738555737136" />
     <meta property="og:title" content="Neumorphism UI PRO by Themesberg" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="../index.html" />
     <meta property="og:image"
-        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta property="og:description"
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta property="og:site_name" content="Themesberg" />
@@ -62,7 +62,7 @@
                 dl = l != "dataLayer" ? "&l=" + l : "";
             j.async = true;
             j.src =
-                "../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+                "../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, "script", "dataLayer", "GTM-THQTXJ7");
     </script>
