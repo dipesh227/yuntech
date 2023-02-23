@@ -12,6 +12,4 @@
         rel="stylesheet" />
     <link type="text/css" href="{{ asset('/css/neumorphism.css') }}" rel="stylesheet" />
     <link type="text/css" href="{{ asset('/public/css/neumorphism.css') }}" rel="stylesheet" />
-
-    
 </head>
