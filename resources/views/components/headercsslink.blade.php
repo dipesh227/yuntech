@@ -9,4 +9,5 @@
     <link type="text/css" href="{{ asset('/public/vendor/%40fortawesome/fontawesome-free/css/all.min.css') }}"
         rel="stylesheet" />
     <link type="text/css" href="{{ asset('/public/css/yuntech.css') }}" rel="stylesheet" />
+   
 </head>
