@@ -10,6 +10,6 @@
         rel="stylesheet" />
     <link type="text/css" href="{{ asset('/public/vendor/%40fortawesome/fontawesome-free/css/all.min.css') }}"
         rel="stylesheet" />
-    <link type="text/css" href="{{ asset('/css/neumorphism.css') }}" rel="stylesheet" />
-    <link type="text/css" href="{{ asset('/public/css/neumorphism.css') }}" rel="stylesheet" />
+    <link type="text/css" href="{{ asset('/css/yuntech.css') }}" rel="stylesheet" />
+    <link type="text/css" href="{{ asset('/public/css/yuntech.css') }}" rel="stylesheet" />
 </head>
