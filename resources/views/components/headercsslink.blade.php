@@ -38,7 +38,7 @@
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="theme-color" content="#ffffff" />
     <link type="text/css" href="../vendor/%40fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
-    <link type="text/css" href="{{asset('/css/neumorphism.css')}}" rel="stylesheet" />
+    <link type="text/css" href="{{asset('/public/css/neumorphism.css')}}" rel="stylesheet" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141734189-6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
