@@ -4,16 +4,14 @@
         <div class="container position-relative">
             <a class="navbar-brand shadow-soft py-2 px-3 rounded border border-light mr-lg-4" href="./">
                 <img class="navbar-brand-dark" src="{{ asset('/public/assets/img/brand/dark.svg') }}" alt="Logo light" />
-                <img class="navbar-brand-light" src="{{ asset('/public/assets/img/brand/dark.svg') }}"
-                    alt="Logo dark" />
             </a>
             <div class="navbar-collapse collapse" id="navbar_global">
                 <div class="navbar-collapse-header">
                     <div class="row">
                         <div class="col-6 collapse-brand">
-                            <a href="../../index-2.html"
-                                class="navbar-brand shadow-soft py-2 px-3 rounded border border-light"><img
-                                    src="../../assets/img/brand/dark.svg" alt="Themesberg logo" /></a>
+                            <a href="./" class="navbar-brand shadow-soft py-2 px-3 rounded border border-light">
+                                <img src="../../assets/img/brand/dark.svg" alt="Themesberg logo" />
+                            </a>
                         </div>
                         <div class="col-6 collapse-close">
                             <a href="#navbar_global" class="fas fa-times" data-toggle="collapse"
@@ -253,10 +251,12 @@
                     </li>
                 </ul>
             </div>
+            {{-- dark theam --}}
             <div class="custom-control custom-switch ">
                 <input type="checkbox" class="custom-control-input" id="customSwitch1" />
                 <label class="custom-control-label" for="customSwitch1" onclick="darktheam()"></label>
             </div>
+            {{-- dark theam --}}
             <div class="d-flex align-items-center">
                 <a href="https://themesberg.com/product/ui-kit/neumorphism-ui-kit-bootstrap-pro" target="_blank"
                     class="btn btn-primary text-secondary mr-3"><i class="fas fa-shopping-cart mr-2"></i> Buy now</a>
@@ -271,4 +271,3 @@
         </div>
     </nav>
 </header>
-

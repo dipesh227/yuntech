@@ -1,9 +1,11 @@
 <head>
     <style>
         .dark-mode {
-            -webkit-filter: invert(100%);
+
             filter: invert(100%);
-            background-color: black;/ color: white;
+            background-color: black;
+            overflow-x: hidden;
+
         }
     </style>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

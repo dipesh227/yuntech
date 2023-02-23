@@ -20,3 +20,4 @@ Route::get('/about/{name}', function ($name) {
     $data=compact('name');
     return view('about')-> with($data);
 });
+
