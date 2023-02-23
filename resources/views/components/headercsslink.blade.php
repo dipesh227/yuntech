@@ -13,7 +13,7 @@
     <meta itemprop="description"
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta itemprop="image"
-        content="../../../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta name="twitter:card" content="product" />
     <meta name="twitter:site" content="@themesberg" />
     <meta name="twitter:title" content="Neumorphism UI PRO by Themesberg" />
@@ -21,25 +21,25 @@
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta name="twitter:creator" content="@themesberg" />
     <meta name="twitter:image"
-        content="../../../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta property="fb:app_id" content="214738555737136" />
     <meta property="og:title" content="Neumorphism UI PRO by Themesberg" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="../../index.html" />
+    <meta property="og:url" content="../index.html" />
     <meta property="og:image"
-        content="../../../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
+        content="../../themesberg.s3.us-east-2.amazonaws.com/public/products/neumorphism-ui-pro/neumorphism-thumbnail.jpg" />
     <meta property="og:description"
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta property="og:site_name" content="Themesberg" />
-    <link rel="apple-touch-icon" sizes="120x120" href="../../assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
-    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="../../assets/img/favicon/safari-pinned-tab.svg" color="#ffffff" />
+    <link rel="apple-touch-icon" sizes="120x120" href="../assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="../assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="../assets/img/favicon/safari-pinned-tab.svg" color="#ffffff" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="theme-color" content="#ffffff" />
-    <link type="text/css" href="../../vendor/%40fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
-    <link type="text/css" href="../../css/neumorphism.css" rel="stylesheet" />
+    <link type="text/css" href="../vendor/%40fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/neumorphism.css" rel="stylesheet" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141734189-6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -62,7 +62,7 @@
                 dl = l != "dataLayer" ? "&l=" + l : "";
             j.async = true;
             j.src =
-                "../../../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+                "../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, "script", "dataLayer", "GTM-THQTXJ7");
     </script>
