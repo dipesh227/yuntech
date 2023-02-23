@@ -5,6 +5,7 @@
 <body class="">
 
     <x-headerlink />
+    <x-herolink />
     <x-bloglink />
     <x-footerlink />
     <x-footerjslink />

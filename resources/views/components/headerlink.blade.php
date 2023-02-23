@@ -1,6 +1,6 @@
-<header class="header-global">
+<header class="header-global fixed-top ">
     <nav id="navbar-main" aria-label="Primary navigation"
-        class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-dark">
+        class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-dark ">
         <div class="container position-relative">
             <a class="navbar-brand shadow-soft py-2 px-3 rounded border border-light mr-lg-4" href="./">
                 <img class="navbar-brand-dark" src="{{ asset('/public/assets/img/brand/dark.svg') }}" alt="Logo light" />
