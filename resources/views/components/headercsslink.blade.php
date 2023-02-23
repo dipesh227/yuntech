@@ -5,8 +5,7 @@
     <meta name="title" content="Neumorph Pro Components - All" />
     <meta name="author" content="Themesberg" />
     <link rel="canonical" href="https://themesberg.com/product/ui-kit/neumorphism-ui-kit-bootstrap-pro" />
-    <meta name="keywords"
-        content="neumorphism, neumorphism ui, neomorphism, neomorphism ui, neomorphism css, neumorphism css, neumorph, neumorphic, design system, login, form, table, tables, card, cards, navbar, modal, icons, icons, map, chat, carousel, menu, datepicker, gallery, slider, date, social, dropdown, search, tab, nav, footer, date picker, forms, tabs, time, button, select, input, timeline, cart, about us, account, log in, blog, profile, portfolio, landing page, ecommerce, shop, landing, register, app, contact, one page, sign up, signup, store, bootstrap 4, bootstrap4, dashboard, bootstrap 4 dashboard, bootstrap 4 design, bootstrap 4 system, bootstrap 4, bootstrap 4 uit kit, bootstrap 4 kit, themesberg, html kit, html css template, web template, bootstrap, bootstrap 4, css3 template, frontend, responsive bootstrap template, bootstrap ui kit, responsive ui kit" />
+    <meta name="keywords" content="" />
     <meta name="description"
         content="Start developing neumorphic web applications and pages using Neumorphism UI PRO. It features over 1000 individual components and 13 example pages." />
     <meta itemprop="name" content="Neumorphism UI PRO by Themesberg" />
@@ -39,7 +38,7 @@
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="theme-color" content="#ffffff" />
     <link type="text/css" href="../vendor/%40fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
-    <link type="text/css" href="../css/neumorphism.css" rel="stylesheet" />
+    <link type="text/css" href="{{asset('/css/neumorphism.css')}}" rel="stylesheet" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141734189-6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
