@@ -2,12 +2,12 @@
 <html lang="en">
 <x-headercsslink />
 
-<body>
+<body class="">
 
     <x-headerlink />
     <x-bloglink />
-    <x-footerjslink />
     <x-footerlink />
+    <x-footerjslink />
 </body>
 
 </html>
