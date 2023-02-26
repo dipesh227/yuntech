@@ -5,12 +5,7 @@
 <body class="">
 
     <x-headerlink />
-    <x-herolink />
-    <x-featureslink />
-    <x-teamlink />
-    <x-bloglink />
-    <x-pricelink />
-    <x-testimonialslink />
+    <x-contactuslink />
     <x-footerlink />
     <x-footerjslink />
 </body>

@@ -2,7 +2,7 @@
 <html lang="en">
 <x-headercsslink />
 
-<body class="dark-mode">
+<body class="">
 
     <main>
         <section class="min-vh-100 d-flex bg-primary align-items-center">
